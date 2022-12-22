@@ -5,7 +5,7 @@
 
 - 💞️ I’m looking to collaborate on teaching areas. I love to teach and I love the PWA ecosystem: Also the Technical Writing is my passion and it was my job for almost six years.
 
-- 📫 You can reach me on Linkedin or here, of course. You can read my personal website at www.ferpro.online to know other ways to contact me.
+- 📫 You can reach me on Linkedin or here, of course. And in my personal website at www.ferpro.online you will find out other ways to contact me.
 
 <!---
 mobilepadawan/mobilepadawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
