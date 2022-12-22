@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mobilepadawan
-- 👀 I'm interested in Vanilla JavaScript, Progressive Web Apps, mobile software development and the engineering of web browsers engine.
-- 🌱 I’m currently learning nothing at all. I teach JavaScript in different coding schools all the time and I'm digging what's new in JS every 6 weeks with every new web browser version.
-- 💞️ I’m looking to collaborate on teaching areas. I love to teach and I love PWA ecosystem, also Technical Writing is my passion and was my job for almost six years.
-- 📫 How to reach me on Linkedin, or here of course. You can read my personal website at www.ferpro.online.
+- 👀 Vanilla JavaScript is an extension of me. Also the Progressive Web Apps, the mobile software development and the engineering of web browser's engine.
+- 🌱 I’m currently learning nothing at all. I teach JavaScript fulltime in a couple of coding schools, a University, and also in a Terciary School. And every six-week-period I digg what's new in JS according to every new chromium web browser version.
+- 💞️ I’m looking to collaborate on teaching areas. I love to teach and I love the PWA ecosystem: Also the Technical Writing is my passion and it was my job for almost six years.
+- 📫 You can reach me on Linkedin or here, of course. You can read my personal website at www.ferpro.online to know other ways to contact me.
 
 <!---
 mobilepadawan/mobilepadawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
