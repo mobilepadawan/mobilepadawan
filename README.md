@@ -10,7 +10,7 @@
 
 - And every six-week-period I digg what's new in JS according to every new Blink Engine version.
 
-- 📫 You can reach me on Linkedin or here, of course. And in my personal website at www.ferpro.online you will find out some ways to contacting me.
+- 📫 You can reach me on Linkedin or here, of course. And in my personal website at www.ferpro.online you will find out some ways for contacting me.
 
 <!---
 mobilepadawan/mobilepadawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
