@@ -6,7 +6,7 @@
 
 - 📆 Since 2022 I'm coordinating a Diploma Degree in a Public University for some cities in Argentina whom are deploying this University Diploma in Frontend Web and Backend with Node.js. My role here is to guide professor and tutor teams and provide them content and exercises to teach coding.
 
-- 🧑🏻‍💻 I continue to improve my skills by developing technical content for many EdTech companies. To write and to teach are helping me to learn new things at a time. 
+- 🧑🏻‍💻 I continue to improve my skills by developing technical content for many EdTech companies and universities (UNTREF, ISTEA, Educación IT, CODERHOUSE, FUNDACIÓN YPF (MEDIACHICAS), TECLAB). To write and to teach are helping me to learn new things at a time. 
 
 - And every six-week-period I digg what's new in JS according to every new Blink Engine version.
 
