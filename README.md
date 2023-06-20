@@ -1,16 +1,13 @@
 - 👋 Hi, I’m @mobilepadawan
+- 👀 Vanilla JavaScript is an extension of me. Also the PWA's and the engineering of web browser engines.
 
-- 👀 Vanilla JavaScript is an extension of me. Also the Progressive Web Apps, the mobile software development and the engineering of web browser engines.
+- 🎓 I teach JavaScript, Node JS backend, and SQL, in a couple of coding schools, a University, and also in an Associate Tech-School.
 
-- 🌱 I’m currently learning nothing at all and also a tons of things. I teach JavaScript, Backend with Node JS and SQL in a couple of coding schools, in a University, and also in a Technical Terciary School. 
+- 📆 I coordinate since 2021 a Diploma Degree in a Public University for some cities in Argentina whom are deploying this University Diploma in Frontend Web and Backend with Node.js. My role is to guide professors and tutors, provide them content and exercises and coordinate the developing of multiple Diploma degress at the same time.
 
-- 📆 Since 2022 I'm coordinating a Diploma Degree in a Public University for some cities in Argentina whom are deploying this University Diploma in Frontend Web and Backend with Node.js. My role here is to guide professor and tutor teams and provide them content and exercises to teach coding.
+- 🧑🏻‍💻 I continue to improve my skills by developing technical content for many Argentinian EdTech companies and Universities (UNTREF, ISTEA, Educación IT, CODERHOUSE, FUNDACIÓN YPF (MEDIACHICAS), TECLAB). To write and to teach are helping me to learn new things at a time. 
 
-- 🧑🏻‍💻 I continue to improve my skills by developing technical content for many EdTech companies and universities (UNTREF, ISTEA, Educación IT, CODERHOUSE, FUNDACIÓN YPF (MEDIACHICAS), TECLAB). To write and to teach are helping me to learn new things at a time. 
-
-- And every six-week-period I digg what's new in JS according to every new Blink Engine version.
-
-- 📫 You can reach me on Linkedin or here, of course. And in my personal website at www.ferpro.online you will find out some ways for contacting me.
+- 📫 You can reach me on Linkedin, here, and throw my personal website at www.ferpro.online.
 
 <!---
 mobilepadawan/mobilepadawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
