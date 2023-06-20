@@ -7,7 +7,7 @@
 
 - 🧑🏻‍💻 I continue to improve my skills by developing technical content for many Argentinian EdTech companies and Universities (UNTREF, ISTEA, Educación IT, CODERHOUSE, FUNDACIÓN YPF (MEDIACHICAS), TECLAB). To write and to teach are helping me to learn new things at a time. 
 
-- 📫 You can reach me on Linkedin, here, and throw my personal website at www.ferpro.online.
+- 📫 You can reach me on Linkedin, here, and throw my personal website at www.ferpro.online. Write me in spanish, english or italian.
 
 <!---
 mobilepadawan/mobilepadawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
