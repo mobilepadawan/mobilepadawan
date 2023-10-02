@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mobilepadawan
 - 👀 Vanilla JavaScript is an extension of me. Also the PWA's and the weird world of the web browser engines.
 
-- 🎓 I teach JavaScript, Node JS backend, and SQL, in a couple of coding schools, a University, and also in an Associate Tech-School.
+- 🎓 I teach JavaScript, Node JS backend, and SQL, in a couple of coding schools, a University, and also in two Associate Tech-School.
 
 - 📆 Since 2021 I'm coordinating a Diploma Degree in a Public University for some cities in Argentina whom are deploying this University Diploma in Frontend Web and Backend with Node.js. My role is to guide the professor and tutor Teams, provide them educational content and exercises, and coordinate the simultaneously (near 10-12) developing of multiple Diploma Degree courses.
 
