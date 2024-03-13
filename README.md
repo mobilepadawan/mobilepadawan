@@ -3,7 +3,7 @@
 
 - 🎓 I teach JavaScript, Node JS backend, and SQL, in a couple of coding schools, a University, and also in two Associate Tech-School.
 
-- 📆 Since 2021 I'm coordinating a Diploma Degree in a Public University for some cities in Argentina whom are deploying this University Diploma in Frontend Web and Backend with Node.js. My role is to guide the professor and tutor Teams also to provide them educational content and exercises, and to coordinate simultaneous Diploma Degree courses (*near 10-12 courses*).
+- 📆 Since 2021 I'm coordinating a Diploma Degree in a Public University for some cities in Argentina whom are deploying this University Diploma in Frontend Web and Backend with Node.js. My role is to guide the professor and tutor Teams also to provide them educational content and exercises, and to coordinate simultaneous Diploma Degree courses (*near 10-12 courses*). And in the coming months we will launching University Diplomas for the 🔐 Cybersecurity and 🤖🧠 Artificial Intelligence fields.
 
 - 🧑🏻‍💻 I continue to improve my skills by developing technical content for many Argentinian EdTech companies and Universities (UNTREF, ISTEA, Educación IT, CODERHOUSE, FUNDACIÓN YPF (MEDIACHICAS), TECLAB) among others. To write and to teach are helping me to learn new things at a time. 
 
