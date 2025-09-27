@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mobilepadawan
+👋 Hi, I’m @mobilepadawan
 👀 **JavaScript** is my second language, and I’m constantly exploring the infinite world of the web—especially Progressive Web Apps and the fascinating intricacies of browser engines.
 
 🎓 **I'm passionate about teaching** advanced JavaScript, Node.js, and SQL at a university level, as well as in technical schools and coding bootcamps.
